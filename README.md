@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-02-09 at 2 04 03 PM](https://github.com/user-attachments/assets/8a97bcea-951e-4fea-8aea-dd6264370d4d)
+
 ## Output
+<img width="953" height="880" alt="Screenshot 2026-02-09 141750" src="https://github.com/user-attachments/assets/a87ef5c6-7970-4728-b432-8da7bdef72f4" />
+
 ## Result
+ Thus, half wave controlled rectifier using one thyristor is simulated using MATLAB Simulink.
